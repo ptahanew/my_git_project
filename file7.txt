@@ -1,1 +1,5 @@
+<<<<<<< HEAD
 Add file № 7_
+=======
+Version7
+>>>>>>> 222dab75958ef00e2825eda528591c558a426ba2
